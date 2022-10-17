@@ -1,2 +1,2 @@
-# localhost
-Rest application for rain sensor
+# Rest application for rain sensor
+localhost
